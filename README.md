@@ -1,4 +1,4 @@
-#BluetoothServo
+# BluetoothServo
 For a project I needed to make a servo move once every time bluetooth input was sent to it.
 I used the ServoTimer2 for this, since it runs on a different timer than the regular servo lib.
 
